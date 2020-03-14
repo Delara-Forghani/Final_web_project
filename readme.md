@@ -1,3 +1,10 @@
+# Final_web_project
+<p>Fitle Internet Engineering project with the Laravel framework.</p> 
+In order to run:
+
+**<p>1- Clone the project into a specific directory.</p>** 
+**<p>2- In your browser write "127.0.0.1:8000/main" in the address bar.</p>**
+<p>Any question about the project please contact me through [email](mailto://Del.forghani@gmail.com)</p>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -70,10 +77,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Final_web_project
-<p>Fitle Internet Engineering project with the Laravel framework.</p> 
-In order to run:
 
-**<p>1- Clone the project into a specific directory.</p>** 
-**<p>2- In your browser write "127.0.0.1:8000/main" in the address bar.</p>**
-<p>Any question about the project please contact me through [email](mailto://Del.forghani@gmail.com)</p>
