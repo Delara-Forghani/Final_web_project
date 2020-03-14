@@ -71,8 +71,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Final_web_project
-Fitle Internet Engineering project with the Laravel framework. 
+<p>Fitle Internet Engineering project with the Laravel framework.</p> 
 In order to run:
-1- Clone the project into a specific directory. 
-2- In your browser write "127.0.0.1:8000/main" in the address bar.
+
+**1- Clone the project into a specific directory.** 
+**2- In your browser write "127.0.0.1:8000/main" in the address bar.**
 Any question about the project please contact me through [email](mailto://Del.forghani@gmail.com)
