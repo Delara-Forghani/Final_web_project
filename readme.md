@@ -75,4 +75,4 @@ Fitle Internet Engineering project with the Laravel framework.
 In order to run:
 1- Clone the project into a specific directory. 
 2- In your browser write "127.0.0.1:8000/main" in the address bar.
-Any question about the project please contact me through [email](Del.forghani@gmail.com)
+Any question about the project please contact me through [email](mailto://Del.forghani@gmail.com)
