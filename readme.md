@@ -1,5 +1,5 @@
 # Final_web_project
-<p>Fitle Internet Engineering project with the Laravel framework.</p> 
+<p>Final Internet Engineering project with the Laravel framework.</p> 
 In order to run:
 
 **<p>1- Clone the project into a specific directory.</p>** 
